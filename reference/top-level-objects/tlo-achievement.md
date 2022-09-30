@@ -22,8 +22,8 @@ Provides access achievements, achievement categories, and other information surr
 | Type | Name | Description |
 | ---- | ---- | ---- |
 | [_achievement_](../data-types/datatype-achievement.md)           | **Achievement[#\|Name]** |  Find an achievement by its ID or by its name.         |
-| [_achievement_](../data-types/datatype-achievement.md)           | **AchivementByIndex[#]** |  Find an achievement by its index.                     |
-| [_int_](../data-types/datatype-int.md)                           | **AchivementCount**      |  The number of achievements in the manager.            |
+| [_achievement_](../data-types/datatype-achievement.md)           | **AchievementByIndex[#]** |  Find an achievement by its index.                     |
+| [_int_](../data-types/datatype-int.md)                           | **AchievementCount**      |  The number of achievements in the manager.            |
 | [_achievementcat_](../data-types/datatype-achievementcat.md)     | **Category[#\|Name]**    |  Find an achievement category by its id or by its name.Note: If searching by name, only top-level categories are returned from the achievement manager.    |
 | [_achievementcat_](../data-types/datatype-achievementcat.md)     | **CategoryByIndex[#]**   |  Find an achievement category by its index.            |
 | [_int_](../data-types/datatype-int.md)                           | **CategoryCount**        |  The number of achievement categories in the manager.  |

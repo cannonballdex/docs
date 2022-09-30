@@ -29,7 +29,7 @@ Provides access achievements, achievement categories, and other information surr
 | [_int_](../data-types/datatype-int.md)                           | **CategoryCount**        |  The number of achievement categories in the manager.  |
 | [_int_](../data-types/datatype-int.md)                           | **Points**               |  The total number of accumulated achievement points.    |
 | [_int_](../data-types/datatype-int.md)                           | **CompletedAchivements** |  The number of completed achievements.    |
-| [_int_](../data-types/datatype-int.md)                           | **TotalAchivements**     |  The number of available achievements.    |
+| [_int_](../data-types/datatype-int.md)                           | **TotalAchievements**     |  The number of available achievements.    |
 | [_bool_](../data-types/datatype-bool.md)                         | **Ready**                |  Indicates that the manager has loaded all achievement data and is ready to be used.    |
 
 

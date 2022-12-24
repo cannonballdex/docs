@@ -30,3 +30,4 @@ List of languages.
 | 23 | Elder Dragon |
 | 24 | Dark Speech |
 | 25 | Vah Shir |
+| 26 | Alaran |
